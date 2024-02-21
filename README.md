@@ -2,6 +2,7 @@
 
 ## Overview
 This project is dedicated to predicting house prices through a series of detailed data preprocessing steps and model comparisons. It utilizes Python and various data science libraries to clean, transform, and analyze the dataset for optimal model performance.
+
 Prediction Score: 0.12438 (RMSE)
 
 ## Key Components
